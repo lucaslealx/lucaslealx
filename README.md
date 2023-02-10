@@ -22,5 +22,5 @@ Cientista de Dados e apaixonado por educação. Atualmente especialista de Ciên
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://llucaslleall.medium.com/conceitos-fundamentais-de-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-945c1cc9f8c0" target="_blank">Conceitos fundamentais de estatística para Ciência de Dados (Medium)</a>
-- <a href="https://www.youtube.com/watch?v=WJE4spsP-Xk&t=4317s" target="_blank">Como sair do ZERO em Ciência de Dados em Apenas UMA AULA (YouTube)</a>
+- <a href="https://www.youtube.com/watch?v=WJE4spsP-Xk&t=4317s">Como sair do ZERO em Ciência de Dados em Apenas UMA AULA (YouTube)</a>
 - <a href="https://llucaslleall.medium.com/5-dicas-que-eu-gostaria-de-ter-escutado-quando-comecei-em-ci%C3%AAncia-de-dados-721735cd83c2" target="_blank">5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)</a>
