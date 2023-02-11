@@ -1,5 +1,7 @@
 ### Lucas Leal aqui :)
-Cientista de Dados e apaixonado por educação. Atualmente especialista de Ciência de Dados, já trabalhei com logística, varejo, educação, finanças e por ai vai
+Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e outras redes 🥰 
+Curioso sobre programação de jogos e estudando Lua nas horas vagas 🎮
+
 - 👨🏻‍💻 **Professor** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 - 🧗🏼 Apaixonado por **escalada**
 - 📸 Você também me encontra falando de **Ciência de Dados** no YouTube da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
