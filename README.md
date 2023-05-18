@@ -28,6 +28,9 @@ Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e 
 </a>&nbsp;
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
+- <a href="https://github.com/lucaslealx/HousePrices/tree/main#readme">
+    Projeto Kaggle: prevendo o preço das casas (House Prices)
+  </a>
 - <a href="https://llucaslleall.medium.com/conceitos-fundamentais-de-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-945c1cc9f8c0">
     Conceitos fundamentais de estatística para Ciência de Dados (Medium)
   </a>
